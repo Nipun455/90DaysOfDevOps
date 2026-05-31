@@ -1,5 +1,7 @@
 # 🚀 90DaysOfDevOps
 ### Learn • Build • Practice • Become Job-Ready
+HELLO eVERYONE I AM LEARNING DEVOPS FROM  trainwithshubham , i self nipun kumar singh
+completed my btech from LOVELY PROFESSIONAL Univerisy
 
 Welcome to **90DaysOfDevOps**, a structured and hands-on DevOps challenge by **TrainWithShubham**.
 
