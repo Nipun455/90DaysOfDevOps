@@ -1,7 +1,8 @@
 # 🚀 90DaysOfDevOps
 ### Learn • Build • Practice • Become Job-Ready
-HELLO eVERYONE I AM LEARNING DEVOPS FROM  trainwithshubham , i self nipun kumar singh
-completed my btech from LOVELY PROFESSIONAL Univerisy
+Hello EveryOne i am learning devops from tainwithshubham , My name is Nipun Kumar Singh
+I am working in cognizant as Testing in cypress and i have completed btech from Lovely professional University 
+
 
 Welcome to **90DaysOfDevOps**, a structured and hands-on DevOps challenge by **TrainWithShubham**.
 
